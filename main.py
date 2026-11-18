@@ -1,1 +1,2 @@
 print("hyy")
+computer = "laptop"
